@@ -1,0 +1,9 @@
+{
+	"name": "spark-dbt-adf",
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2c7b497b-f0bb-4f63-8d62-3b17ff5edce6",
+		"tenantId": "f419c9fe-f7b0-4d87-bee8-e8dfb2190cab"
+	}
+}
