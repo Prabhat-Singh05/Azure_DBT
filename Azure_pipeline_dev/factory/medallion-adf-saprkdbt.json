@@ -1,9 +1,0 @@
-{
-	"name": "medallion-adf-saprkdbt",
-	"location": "germanywestcentral",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "64289fa1-b3db-4087-8f4e-371e7cdcbc55",
-		"tenantId": "f419c9fe-f7b0-4d87-bee8-e8dfb2190cab"
-	}
-}
